@@ -1,65 +1,68 @@
-.text_1 {
-	font-family: "PT Sans",sans-serif;
-	font-size: 21px;
+
+
+
+
+
+
+
+.main-nav {
+
+	font-family: PT Sans;
 	font-weight: 700;
-	color: black;
-}
-.text_2 {
-	font-family: "PT Sans",sans-serif;
 	font-size: 14px;
-	font-weight: 400;
-	color: black;
+	font-color: green;	
+}
+
+.main-nav li {
+	display: inline-block;
+	margin: 0 60px 0 0;
+}
+
+h3 {
+	font-family: PT Sans;
+	font-weight: 700;
+	font-size: 21px;
 
 }
-.text_3 {
-	font-family: "PT Sans",sans-serif;
-	font-size: 21px;
+h1 {
+	font-family: PT Sans;
 	font-weight: 700;
-	color: red;
-
-}
-.text_4 {
-	font-family: "PT Sans",sans-serif;
-	font-size: 14px;
-	font-weight: 400;
-	color: red;
-}
-.text_5 {
-	font-family: "PT Sans",sans-serif;
 	font-size: 30px;
-	font-weight: 700;
-	color: black;
+	font-color: green;	
 }
-
-.text_6 { 
-
-
-	font-family: "PT Sans",sans-serif;
-	font-size: 14px;
-	font-weight: 700;
-	color: black;
 }
-.text_7 {
-	font-family: "PT Sans",sans-serif;
-	font-size: 14px;
+p {
+	font-family: PT Sans;
 	font-weight: 400;
-	color: black;
-}
-.text_8 {
-	font-family: "PT Sans",sans-serif;
 	font-size: 14px;
-	font-weight: 700;
-	color: red;
 }
-.text_9 {
-	font-family: "PT Sans",sans-serif;
-	font-size: 14px;
-	font-weight: 700;
-	color: red;
-}
-.text_11 {
-	font-family: "PT Sans",sans-serif;
-	font-size: 12px;
-	font-weight: 400;
-	color: black;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blur_mountin {
+	background-image: url(../img/background.png);
+	width: 200px;
+	height: 100px;
 }
